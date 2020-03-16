@@ -24,4 +24,3 @@
 
 Creating a new branch is quick.
 
-Another commit.
