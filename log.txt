@@ -23,3 +23,5 @@
             5、一个接口不能继承其他的类，但是可以继承别的接口
 
 Creating a new branch is quick.
+
+Another commit.
