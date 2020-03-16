@@ -21,3 +21,5 @@
                 a、接口中的变量，本质上是static的，而且是final的，不管加不加static修饰
                 b、在java开发中，经常把常用的变量放在接口中，作为全局变量使用
             5、一个接口不能继承其他的类，但是可以继承别的接口
+
+Creating a new branch is quick.
